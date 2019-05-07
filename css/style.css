@@ -1,0 +1,26 @@
+
+body{
+    	font-family: "Arial";
+    	font-size: 20px;
+    	line-height: 1.5; 
+    	color:#333;
+    	background-color:#f0b587;
+    	width:768px;
+    	margin:auto;
+    }
+
+a   {
+         color: #f0b587;
+         background-color:#333;
+         text-decoration: none;
+         padding-left:8px;
+         padding-right: 8px;
+
+    }
+
+a:hover {
+        	
+        color:#333;
+    	background-color:#FFF;
+
+    }       
